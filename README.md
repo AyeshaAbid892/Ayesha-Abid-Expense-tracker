@@ -1,22 +1,64 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5ef9,25:8b7bfa,50:10b981,75:f7df1e,100:f43f5e&height=240&section=header&text=💰%20Ledgerly&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Multi-User%20Expense%20Tracker%20%7C%20Node.js%20•%20Express%20•%20React%20•%20Tailwind&descAlignY=62&descSize=16&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Complete-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/jsPDF-6D5EF9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Lucide_Icons-F43F5E?style=for-the-badge&logo=lucide&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Dark_Mode-131A26?style=for-the-badge&logo=darkreader&logoColor=white" height="24"/>
+</p>
+<br/>
 
-# 💰 Ledgerly
+> **A premium, multi-user personal finance dashboard** built with Node.js, Express, React, and Tailwind CSS — no database required.  
+> Features a full analytics dashboard, budget & income tracking, inline-editable transactions, PDF/CSV exports, notifications, and dark mode — all running on a lightweight `fs`-based backend.
 
-### A premium, multi-user personal finance dashboard
+<br/>
 
-Built with the **MERN-adjacent** stack — **Node.js, Express, React, and Tailwind CSS** —
-without a database, proving that a thoughtfully engineered file-based backend can power
-a real, production-feeling financial product.
+![Users](https://img.shields.io/badge/Demo_Users-3-6d5ef9?style=flat&logo=buffer)
+![Charts](https://img.shields.io/badge/Charts-Recharts-ff6384?style=flat&logo=chartdotjs)
+![Storage](https://img.shields.io/badge/Storage-fs%20%2F%20JSON-10b981?style=flat&logo=json)
+![AI Tool](https://img.shields.io/badge/AI_Tool-Claude_by_Anthropic-a855f7?style=flat)
+![License](https://img.shields.io/badge/License-MIT-3d9cd2?style=flat)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
+<br/>
 </div>
 
+---
+###  Live Demo + Loom Video 
+
+| Requirement | Status |
+|---|---|
+| |
+| Live demo link | [[Live Demo](https://social-app-ayesha-abid.vercel.app)] |
+| Loom video link | [[Live Demo](https://www.loom.com/share/3e54eefec86a4bf2b74fe7f6380817f4)] |
+
+
+
+## 📑 Table of Contents
+
+| # | Section | Description |
+|---|---|---|
+| 01 | [📖 Overview](#-overview) | What Ledgerly is, and why it's built without a database |
+| 02 | [✨ Key Features](#-key-features) | Multi-user workspace, dashboard, expenses, reports, notifications, UI/UX |
+| 03 | [🛠️ Tech Stack](#️-tech-stack) | Every technology used and why |
+| 04 | [🏗️ Architecture](#️-architecture) | How the frontend, API, and storage layers connect |
+| 05 | [📁 Project Structure](#-project-structure) | Full backend + frontend folder breakdown |
+| 06 | [🚀 Getting Started](#-getting-started) | Install and run the project locally, step by step |
+| 07 | [🔌 API Reference](#-api-reference) | Every backend endpoint, grouped by resource |
+| 08 | [🎨 Design System](#-design-system) | Fonts, colors, spacing tokens used across the UI |
+| 09 | [🗺️ Roadmap](#️-roadmap) | Planned future improvements |
+| 10 | [📄 License](#-license) | Usage terms |
+
+---
 ---
 
 ## 📖 Overview
@@ -355,6 +397,26 @@ This project is available for educational and portfolio purposes.
 
 <div align="center">
 
+**✦ Author ✦**
+
+**Your Name**
+🐙 GitHub: [@your-username]((https://github.com/AyeshaAbid892))
+💼 LinkedIn: [your-profile](https://www.linkedin.com/in/ayesha-abid33/)
+📧 Email: ayeshaa.abid33@gmail.com
+
+---
+
+<div align="center">
+
+
 Built with ❤️ using Node.js, Express, React, and Tailwind CSS
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5ef9,25:8b7bfa,50:10b981,75:f7df1e,100:f43f5e&height=180&section=footer&text=Thanks%20for%20visiting%20Ledgerly!%20💜&fontSize=32&fontColor=ffffff&fontAlignY=75&desc=Multi-User%20Expense%20Tracker%20•%20Built%20with%20React%20+%20Node.js%20+%20Express%20•%20Status%3A%20Complete%20✅&descAlignY=90&descSize=14&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+
+<div align="center">
+
+
 
 </div>
