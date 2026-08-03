@@ -55,11 +55,11 @@
 | 10 | [📄 License](#-license) | Usage terms |
 
 ---
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/595792fa-acc0-4442-8c25-ba9194379265" />
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/595792fa-acc0-4442-8c25-ba9194379265" />
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/eee69df0-984b-4858-ad32-87fe6ca04dc9" />
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/eee69df0-984b-4858-ad32-87fe6ca04dc9" />
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/cdb477f7-da02-4449-b8d3-884aee772fe5" />
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/cdb477f7-da02-4449-b8d3-884aee772fe5" />
 
 
 ---
@@ -81,7 +81,7 @@ running on a lightweight, dependency-free storage layer (plain JSON files via No
 the tech stack. Every feature you see is fully wired end-to-end — nothing is a static
 mockup.
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f7bc6eb0-8d42-4f6b-85aa-b04da9779545" />
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/f7bc6eb0-8d42-4f6b-85aa-b04da9779545" />
 
 
 > 💡 **Why no database?** To keep the project self-contained, dependency-light, and
@@ -93,10 +93,11 @@ mockup.
 ---
 
 <img width="1393" height="677" alt="image" src="https://github.com/user-attachments/assets/6ba40fe0-38e5-4a3b-b23c-dec04d2b9592" />
----
- 
- <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f8d50967-39be-45f8-9927-b7fdc0b40cf7" />
 
+ 
+ <img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/f8d50967-39be-45f8-9927-b7fdc0b40cf7" />
+
+---
 
 ## ✨ Key Features
 
@@ -106,7 +107,7 @@ mockup.
 >- Instant profile switching from the top navigation — no login flow needed for the demo
 >- Every API call is scoped to the active `userId`, so data never leaks between profiles
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a8807eae-5502-4c8c-9970-33010e9e6828" />
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/a8807eae-5502-4c8c-9970-33010e9e6828" />
 
 
 ### 📊 Analytics Dashboard
@@ -124,6 +125,9 @@ mockup.
 >- **Filtering** — by category, minimum amount, maximum amount
 >- **Live search** — instant client-side search by title
 >- Modal-based "Add Expense" flow with validation and inline error messaging
+
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/6c31b24f-8b23-47a5-8b45-bafe623532f4" />
+
 
 ### 📤 Reports & Export
 >- **PDF export** — generates a formatted, downloadable statement (via `jsPDF`) with
@@ -195,6 +199,7 @@ data/*.json  (users, expenses, notifications)
 
 
 
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/e8837a9c-95bb-4207-bab3-8757d7b479b8" />
 
 
 
@@ -363,6 +368,9 @@ seeded demo profiles from the user menu in the top-right corner.
 
 ---
 
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/021d78c6-2e75-4298-aafc-ec41278f7932" />
+
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
@@ -409,6 +417,9 @@ which serverless platforms like Vercel don't provide.
 >4. Environment Variable: `VITE_API_BASE_URL` = the deployed Render URL + `/api`
 
 ---
+
+<img width="270" height="500" alt="image" src="https://github.com/user-attachments/assets/99b2c2f6-61cf-4941-bd28-cfbae8b90d45" />
+
 
 ## 🗺️ Roadmap
 
