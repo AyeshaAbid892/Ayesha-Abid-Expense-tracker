@@ -34,6 +34,8 @@
 
 ---
 
+<img width="1401" height="717" alt="image" src="https://github.com/user-attachments/assets/7fb37117-09e2-4479-8090-3c29160dd457" />
+
 
 
 
@@ -53,6 +55,13 @@
 | 10 | [📄 License](#-license) | Usage terms |
 
 ---
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/595792fa-acc0-4442-8c25-ba9194379265" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/eee69df0-984b-4858-ad32-87fe6ca04dc9" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/cdb477f7-da02-4449-b8d3-884aee772fe5" />
+
+
 ---
 
 ## 📖 Overview
@@ -64,10 +73,16 @@ tracking**, **notifications**, **dark mode**, and **PDF/CSV report exports** —
 running on a lightweight, dependency-free storage layer (plain JSON files via Node's
 `fs` module, no database required).
 
+<img width="1393" height="707" alt="image" src="https://github.com/user-attachments/assets/e33e5ffb-c52b-4ce0-92f4-84b4d202f509" />
+
+
 >The goal of this project was to demonstrate that solid **software architecture**,
 **clean API design**, and **intentional UI/UX decisions** matter more than the size of
 the tech stack. Every feature you see is fully wired end-to-end — nothing is a static
 mockup.
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f7bc6eb0-8d42-4f6b-85aa-b04da9779545" />
+
 
 > 💡 **Why no database?** To keep the project self-contained, dependency-light, and
 > easy to run anywhere in seconds — `npm install` and you're live. The file-storage
@@ -77,6 +92,12 @@ mockup.
 
 ---
 
+<img width="1393" height="677" alt="image" src="https://github.com/user-attachments/assets/6ba40fe0-38e5-4a3b-b23c-dec04d2b9592" />
+---
+ 
+ <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f8d50967-39be-45f8-9927-b7fdc0b40cf7" />
+
+
 ## ✨ Key Features
 
 ### 🔐 Multi-User Workspace
@@ -84,6 +105,9 @@ mockup.
   budget, transactions, and notifications
 >- Instant profile switching from the top navigation — no login flow needed for the demo
 >- Every API call is scoped to the active `userId`, so data never leaks between profiles
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a8807eae-5502-4c8c-9970-33010e9e6828" />
+
 
 ### 📊 Analytics Dashboard
 >- **Stat cards** — monthly income, amount spent, savings, and remaining budget
@@ -122,6 +146,9 @@ mockup.
 
 ---
 
+<img width="1394" height="717" alt="image" src="https://github.com/user-attachments/assets/400cdf82-ad36-458b-916b-7f8e74dc25ee" />
+
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology | Purpose |
@@ -140,6 +167,7 @@ mockup.
 | **Dev tooling** | Nodemon, Vite dev server | Hot-reloading during development |
 
 ---
+<img width="1399" height="716" alt="image" src="https://github.com/user-attachments/assets/9db88826-2c38-40d7-bfc1-564b48f2e07d" />
 
 ## 🏗️ Architecture
 
@@ -164,6 +192,11 @@ Express REST API
    ▼
 data/*.json  (users, expenses, notifications)
 ```
+
+
+
+
+
 
 ---
 
@@ -244,6 +277,7 @@ ledgerly/
     ├── tailwind.config.js
     └── vite.config.js
 ```
+<img width="1401" height="718" alt="image" src="https://github.com/user-attachments/assets/21964dc7-4d28-48bb-bbd7-3db55f478fd1" />
 
 ---
 
@@ -287,6 +321,9 @@ seeded demo profiles from the user menu in the top-right corner.
 > Re-run `npm run seed` at any time to reset all demo data back to a fresh state.
 
 ---
+
+
+<img width="1398" height="717" alt="image" src="https://github.com/user-attachments/assets/40986538-2745-4eda-871c-916ef40c0942" />
 
 ## 🔌 API Reference
 
